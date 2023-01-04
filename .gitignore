@@ -1,8 +1,17 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*.pth
 *.py[cod]
 *$py.class
-
+.vscode/
+logs/*
+WIP/
+data/
+generate_sample_data.py
+*.mp4
+spec-file.txt
+wandb/
+evaluate/*
 # C extensions
 *.so
 
