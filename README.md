@@ -1,4 +1,4 @@
-# Scaling Neural Face Synthesis to High FPS and Low Latency by Neural Caching (WIP)
+# Scaling Neural Face Synthesis to High FPS and Low Latency by Neural Caching
 ### [Paper](https://arxiv.org/abs/2211.05773) | [Website](https://yu-frank.github.io/lowlatency/)
 >**Scaling Neural Face Synthesis to High FPS and Low Latency by Neural Caching**\
 >[Frank Yu](https://yu-frank.github.io/), [Sidney Fels](https://ece.ubc.ca/sid-fels/), and [Helge Rhodin](https://www.cs.ubc.ca/~rhodin/web/)\
